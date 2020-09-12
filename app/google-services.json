@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "209564734300",
+    "firebase_url": "https://i-m-here-dad9f.firebaseio.com",
+    "project_id": "i-m-here-dad9f",
+    "storage_bucket": "i-m-here-dad9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209564734300:android:3b4828871523647a",
+        "android_client_info": {
+          "package_name": "c.tabishnadeem50.imhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209564734300-b5f9vkdou5u94pdp3877dir9b2rkvcek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.tabishnadeem50.imhere",
+            "certificate_hash": "8c838236fbe37974dd1df47a037687f114b4abe8"
+          }
+        },
+        {
+          "client_id": "209564734300-msrlak89mlg2t27n7vnohk52afof7vv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_GYzc-l4emP-nXTL1RlGHrYrqavCzX0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209564734300-msrlak89mlg2t27n7vnohk52afof7vv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9646733604958580~2749563524"
+    }
+  ],
+  "configuration_version": "1"
+}
